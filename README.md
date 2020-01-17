@@ -4,6 +4,4 @@ Our group aims to build a UChicago-based platform to consolidate resources and s
 
 We hope to create an online space for student voices to fill these crucial gaps in information. 
 
-## Who are we? 
-
-Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny Kim.
+Group members; Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny Kim.
