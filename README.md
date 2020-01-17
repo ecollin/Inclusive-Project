@@ -7,11 +7,11 @@ We hope to create an online space for student voices that will fill crucial gaps
 Group members; Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny Kim.
 
 
-[deliverable1](./deliverable.md)
+[deliverable1](./README.md
 
-[deliverable2](./deliverable.md)
+[deliverable2](./README)
 
-[deliverable3](./deliverable.md)
+[deliverable3](./README)
 
-[deliverable4](./deliverable.md)
+[deliverable4](./README)
 
