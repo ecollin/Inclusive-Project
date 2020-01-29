@@ -8,7 +8,7 @@ We hope to create an online space for student voices that will fill crucial gaps
 Group members; Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny Kim.
 
 
-[deliverable1]()
+[GP1 Powerpoint](https://docs.google.com/presentation/d/1UDzyZ4TQLeXqV8IskCPCDf_v_sQDCbESmJhXfOqGtYU/edit?usp=sharing)
 
 [deliverable2]()
 
