@@ -10,7 +10,7 @@ Group members; Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny 
 
 [GP1 Powerpoint](https://docs.google.com/presentation/d/1UDzyZ4TQLeXqV8IskCPCDf_v_sQDCbESmJhXfOqGtYU/edit?usp=sharing)
 
-[deliverable2]()
+[GP2 Poster Image](https://imgur.com/a/99CjsZf)
 
 [deliverable3]()
 
