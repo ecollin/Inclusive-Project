@@ -12,7 +12,7 @@ Group members; Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny 
 
 [GP2 Poster Image](https://imgur.com/a/99CjsZf)
 
-[deliverable3]()
+[GP3 Low-fidelity prototype website](https://thoranderskow.github.io/low_fidelity/)
 
 [deliverable4]()
 
