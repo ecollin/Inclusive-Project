@@ -14,5 +14,5 @@ Group members; Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny 
 
 [GP3 Low-fidelity prototype website](https://thoranderskow.github.io/low_fidelity/)
 
-[deliverable4]()
+[GP3 Report](https://www.pdfhost.net/index.php?Action=Download&File=f5a80de38f5389f3882f0378c8d16b56)
 
