@@ -16,3 +16,5 @@ Group members; Lucas Du, Enrique Collin, Thorence Anderskow, Oliver Zhao, Danny 
 
 [Final prototype video](https://www.youtube.com/watch?v=4nHR7Ftsiww&feature=youtu.be)
 
+[Final prototype](http://calming-confidential.herokuapp.com/): Note, you may have to refresh once or twice to get it to load.
+
